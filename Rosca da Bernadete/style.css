@@ -1,0 +1,90 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin: 70;
+  background-image: url(https://img.freepik.com/vetores-premium/rosquinhas-coloridas-polvilhadas-com-padrao-sem-costura-de-acucar-fundo-de-papel-de-parede-de-papel-de-embrulho-kawaii-doodle-f_609998-377.jpg);
+}
+
+h1 {
+  font-size: 30px;
+  margin-bottom: 10px;
+  background-color: rosybrown;
+  
+}
+
+hr{
+  height: 4px;
+  background-color: brown;
+  border-color: white
+}
+
+h2 {
+  font-size: 25px;
+  margin-bottom: 10px;
+  background-color: rosybrown;
+}
+
+h1, h2, h3, h4, h5, nav {
+  text-align: center;
+  font-size: 20px;
+}
+
+h6 {
+  font-size: 18px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+
+}
+
+h4, h5 {
+  background-color: rosybrown;
+  margin-top: 6%;
+}
+
+.rosca {
+  width: 80%;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 35px;
+  max-width: 500px;
+}
+
+p {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+li {
+  margin-bottom: 5px;
+  padding: 1;
+  margin: 1
+}
+
+ol {
+  list-style-type: decimal;
+  margin: 1;
+  padding: 1;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin-bottom: 50px;
+}
+
+footer {
+  text-align: center;
+}
+
+.avatar {
+  border-radius: 50%;
+  margin-top: ; 
+}
